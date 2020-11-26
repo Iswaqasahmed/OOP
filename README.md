@@ -3,6 +3,11 @@
 In python does not require you to use objects or classes.Complex programs are hard to keep organized,so,using object oriented approach to organizes and structures code.
 Groups together data and behavior into one place, promotes modularization of programs.
 
+- Class 🏛 :
+    A blueprint for creating objects of a particular type
+
+
+
 ` Access Modifier Variable ` &nbsp;
 ` Access Mofifier Method `
 
