@@ -5,6 +5,16 @@ Groups together data and behavior into one place, promotes modularization of pro
 
 - [Class](https://docs.python.org/3/tutorial/classes.html) 🏛 :
     A blueprint for creating objects of a particular type
+    
+- [Methods]() : Regular Function that are part of a class.
+
+- [Attributes] (): Variable that hold data that are part of a class.
+
+- [Object] (): A specific instance of a class.
+
+- [Inheritance](): Means by which a class can inherit capabilities from another.
+
+- [Composition] (): Means of buliding complex objects out of another objects.
 
 
 
